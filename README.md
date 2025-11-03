@@ -16,7 +16,7 @@ A minimal Money and currency package.
 ### Creating Money
 
 ```go
-import "github.com/your-org/nucleus-core/pkg/good_money"
+import "github.com/the-nucleus-project/good_money"
 
 // Create money instances
 m1, _ := good_money.New(100.50, good_money.ETB)  // 100.50 ETB
